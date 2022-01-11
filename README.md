@@ -1,2 +1,3 @@
 # -Its-Just-A-Burning-Memory-on-Arduino-Buzzer-
-I Forgor
+Outputs on pin 2
+Required: Speaker or buzzer
